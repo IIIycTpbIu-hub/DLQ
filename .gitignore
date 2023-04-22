@@ -1,1 +1,8 @@
 volume
+.idea
+obj
+.vs
+bin
+Presentation
+.DS_Store
+*.pptx
